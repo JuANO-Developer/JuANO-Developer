@@ -5,19 +5,26 @@
 <br>
 <h2 align="center">Skills</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/-FEFF01?logo=javascript&logoColor=000&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-EC6231?logo=html5&logoColor=FFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-264de4?logo=css3&logoColor=FFF&style=for-the-badge" />
-    <br>
-    <img src="https://img.shields.io/badge/-474A8A?logo=php&logoColor=FFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-00758F?logo=mysql&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-0064a5?logo=postgresql&logoColor=FFF&style=for-the-badge" />
-    <br>
-    <img src="https://img.shields.io/badge/-FFD43B?logo=python&logoColor=646464&style=for-the-badge" />    
-    <img src="https://img.shields.io/badge/-589636?logo=mongodb&logoColor=FFF&style=for-the-badge" />  
-    <img src="https://img.shields.io/badge/-29beb0?logo=go&logoColor=FFF&style=for-the-badge" />
-    <br>
-    <img src="https://img.shields.io/badge/-61dbfb?logo=react&logoColor=000&style=for-the-badge" />
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/-FEFF01?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-EC6231?logo=html5&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-264de4?logo=css&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-FFD43B?logo=python&logoColor=646464&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-474A8A?logo=php&logoColor=FFF&style=for-the-badge" />
+  <br>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/-61dbfb?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-43853d?logo=node.js&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-6DB33F?logo=springboot&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <br>
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/-00758F?logo=mysql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-0064a5?logo=postgresql&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-589636?logo=mongodb&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-003545?logo=mariadb&logoColor=FFF&style=for-the-badge" />
+
 </div>
 <br>
 <h2 align="center">Soft Skills</h2>
